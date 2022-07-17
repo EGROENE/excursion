@@ -9,3 +9,13 @@ h1 {
     font-size: 50px;
     color: white;
 }
+
+.download-link {
+    font-size: 16px;
+    color: aquamarine;
+}
+
+.download-link:hover {
+    cursor: pointer;
+    color: orangered;
+}
