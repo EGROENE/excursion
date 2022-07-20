@@ -3,6 +3,8 @@ body {
     text-align: center;
     background-color: black;
     color: white;
+    display: grid;
+    row-gap: 32px;
 }
 
 h1 {
@@ -23,10 +25,6 @@ h1 {
 
 .download-link sup {
     font-size: xx-small;
-}
-
-#excursion-demo-vid {
-    margin-top: 56px;
 }
 
 .subheader {
