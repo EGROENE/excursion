@@ -42,3 +42,8 @@ h1 {
 .subsubheader sup {
     font-size: 10px;
 }
+
+footer {
+    text-align: right;
+    color: gray;
+}
